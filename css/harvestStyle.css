@@ -1,0 +1,9 @@
+body {
+    background-image: linear-gradient(aqua, green);
+    background-size: cover;
+    background-repeat: no-repeat;
+    }
+
+* {text-align: center}
+.harvest div {margin-top: 5%}
+p {font-size: 20px}

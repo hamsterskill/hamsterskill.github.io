@@ -1,0 +1,53 @@
+* {
+    margin: 0;
+    padding: 0;
+    color: #fff1ad;
+}
+
+body {
+    background-image: linear-gradient(aqua, green);
+    background-size: cover;
+    background-repeat: no-repeat
+    }
+
+section {
+    margin-top: 2em
+}
+
+h1 {
+    color: blue;
+    text-align: center;
+    }
+
+.info {
+    padding: 0 7%;
+    text-align: center;
+    font-size: 25px
+}
+
+.info span {
+    color: blue;
+ }
+
+
+.list {
+    margin: 1.5em 8%;
+    display: flex;
+    justify-content: space-around;
+}
+.list .col {
+    width: min-content;
+}
+
+hr {
+    width: 400px;
+    margin: 0 auto;
+    size: 10%;
+    background-color: red;
+    border: none;}
+.pov {
+    text-align: center;
+}
+.carousel {
+    margin: 2em 20% 2em 20%;
+}
